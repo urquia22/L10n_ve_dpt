@@ -1,0 +1,7 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"access_regiones","regiones","model_regiones","base.group_user",1,1,1,1
+"access_estados","estados","model_estados","base.group_user",1,1,1,1
+"access_municipios","municipios","model_municipios","base.group_user",1,1,1,1
+"access_parroquias","parroquias","model_parroquias","base.group_user",1,1,1,1
+"access_localidades","localidades","model_localidades","base.group_user",1,1,1,1
+"access_direccion","direccion","model_direccion","base.group_user",1,1,1,1
